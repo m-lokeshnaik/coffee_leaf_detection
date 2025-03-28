@@ -117,7 +117,7 @@ Please ensure your code follows these standards:
 For questions, suggestions, or collaboration opportunities:
 
 - GitHub Issues: Please use the [issue tracker](https://github.com/m-lokeshnaik/coffee_leaf_detection/issues)
-- Email: lokeshdangi.ece20@gmail.com
+- Email: lokeshnaik7569@gmail.com
 - Project Website: [Coffee Leaf Disease Detection](https://github.com/m-lokeshnaik/coffee_leaf_detection)
 
 For bug reports, please include:
